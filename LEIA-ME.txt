@@ -1,0 +1,5 @@
+INICIANDO O SERVER: npm start
+COMANDO NODE:       node db.js
+ACESSAR localhost:3000
+
+by leandro 25.04.2020 - Rocketseat WorkshopDevnp
